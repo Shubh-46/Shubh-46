@@ -1,3 +1,4 @@
+![Masterhead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Shubham Shrivastava</h1>
 <h3 align="center">An AI Engineer and Machine Learning enthusiast seeking job roles in AI and ML domain.</h3>
 
